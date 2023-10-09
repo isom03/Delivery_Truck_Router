@@ -1,5 +1,5 @@
 # Delivery_Truck_Router
-Assessment for Western Governors University C950 - Data Structures and Algorithms II
+Assessment for Western Governors University C950 - Data Structures and Algorithms II - Project uses nearest neighbor algorithm to find quickest delivery route
 
 Project Scenario: The Western Governors University Parcel Service (WGUPS) needs to determine the best route and delivery distribution for their Daily Local Deliveries (DLD) because packages are not currently being consistently delivered by their promised deadline. The Salt Lake City DLD route has three trucks, two drivers, and an average of 40 packages to deliver each day; each package has specific criteria and delivery requirements.
 
